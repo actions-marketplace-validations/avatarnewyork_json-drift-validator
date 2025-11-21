@@ -1,5 +1,5 @@
 name: "JSON Drift Validator"
-description: "Flatten JSON, compare values, and detect configuration drift using critical/medium/ignore severity rules with wildcard path matching. Supports JSON via raw string, file, or base64."
+description: "JSON drift detection with critical, medium, and ignore rules using wildcard matching. Supports file, base64, or raw JSON."
 author: "Avatar New York"
 
 branding:
